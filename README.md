@@ -1,2 +1,2 @@
 # ac_api
-Multi-protocol API for ac backend
+Multiprotocol API for ac backend
